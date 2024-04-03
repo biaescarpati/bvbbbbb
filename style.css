@@ -1,0 +1,48 @@
+*{
+    margin: 0 ;
+    padding: 0;
+
+}
+
+.retalho{
+    background-color: black;
+color: gray;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+
+}
+
+.retalho-imagem{
+    width: 60%;
+
+}
+.retalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+font-size: 24px;
+
+}
+
+ .alurada-imagem{
+    width: 30%;
+
+ }
+ .alurada{
+    background-image: -o-linear-gradient(rgb(156, 46, 46)) rgb(53, 53, 53);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 24px 0;
+ }
+
+ .alurada-div{
+width: 90%;
+
+ }
+
+ .alurada-titulo{
+    padding: 24px 0;
+    
+ }
